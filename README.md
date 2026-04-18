@@ -172,7 +172,7 @@ CookLoco = {
 ## 🚀 Installation
 
 1. Copy the `cobra_supplychain` folder into your server's `resources` directory
-2. Run `run_me_dawg.sql` on your database
+2. Run `run_me.sql` on your database
 3. Add `ensure cobra_supplychain` to your `server.cfg`
 4. Configure `config_warehouse.lua` and `config_resturant.lua` to match your server's jobs, locations, and items
 5. Ensure all items listed in `Config.Items` and `Config.ItemsFarming` exist in your `qb-inventory` items file
