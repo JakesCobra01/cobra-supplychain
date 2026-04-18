@@ -43,7 +43,7 @@ A comprehensive **Supply Chain & Restaurant Management** script for QBCore FiveM
 Run the included SQL file **once** on your database before starting the resource:
 
 ```
-run_me_dawg.sql
+run_me.sql
 ```
 
 This creates three tables:
@@ -59,7 +59,7 @@ This creates three tables:
 ```
 cobra_supplychain/
 ├── fxmanifest.lua
-├── run_me_dawg.sql
+├── run_me.sql
 ├── configs/
 │   ├── config_resturant.lua      # Business zones, registers, trays, chairs, cook stations
 │   └── config_warehouse.lua      # Warehouse locations, truck/trailer, items, farmer NPC
